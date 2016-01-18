@@ -1,0 +1,26 @@
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\HUDFont.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Ball\ballBig.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Ball\ballSmall.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Blocks\block_blue.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Blocks\block_bubble.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Blocks\block_bubbleBig.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Blocks\block_earth.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Blocks\block_greenWaveBig.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Blocks\block_greenWaveSmall.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Blocks\block_red.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Blocks\block_yellow.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\BlueGhost.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\PacmanSingle.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Player\paddleBig.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Player\paddleBiger.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\Player\paddleSmall.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Content\Sprites\RedGhost.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Game Programming.exe
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\Game Programming.pdb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\MonoGame.Framework.dll
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\MonogameLibrary.dll
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\OpenTK.dll
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\bin\WindowsGL\Release\MonogameLibrary.pdb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\obj\x86\Release\MonogameBreakoutComplete.csprojResolveAssemblyReference.cache
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\obj\x86\Release\Game Programming.exe
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame FA15\MonogameBreakoutWCollision\obj\x86\Release\Game Programming.pdb

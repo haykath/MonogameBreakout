@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonogameLibrary", "MonogameLibrary\MonogameLibrary.csproj", "{BC5F38C4-E4CE-40A5-8887-BD613D81F7C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonogameBreakout", "MonogameBreakout\MonogameBreakout.csproj", "{CAB03551-02ED-4A5F-AE59-D628D656311B}"
+EndProject
+Global
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC5F38C4-E4CE-40A5-8887-BD613D81F7C1}.Debug|x86.ActiveCfg = Debug|x86
+		{BC5F38C4-E4CE-40A5-8887-BD613D81F7C1}.Debug|x86.Build.0 = Debug|x86
+		{BC5F38C4-E4CE-40A5-8887-BD613D81F7C1}.Release|x86.ActiveCfg = Release|x86
+		{BC5F38C4-E4CE-40A5-8887-BD613D81F7C1}.Release|x86.Build.0 = Release|x86
+		{CAB03551-02ED-4A5F-AE59-D628D656311B}.Debug|x86.ActiveCfg = Debug|x86
+		{CAB03551-02ED-4A5F-AE59-D628D656311B}.Debug|x86.Build.0 = Debug|x86
+		{CAB03551-02ED-4A5F-AE59-D628D656311B}.Release|x86.ActiveCfg = Release|x86
+		{CAB03551-02ED-4A5F-AE59-D628D656311B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

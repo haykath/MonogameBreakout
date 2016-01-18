@@ -1,0 +1,12 @@
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\obj\x86\Debug\MonogameInputController.csprojResolveAssemblyReference.cache
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\Content\Sprites\BlueGhost.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\Content\Sprites\PacmanSingle.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\Content\Sprites\RedGhost.xnb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\Game Programming.exe
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\Game Programming.pdb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\MonogameLibrary.dll
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\OpenTK.dll
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\bin\WindowsGL\Debug\MonogameLibrary.pdb
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\obj\x86\Debug\Game Programming.exe
+D:\Diogo\Dev\Columbia\Game Programming\SVN\GP Monogame Classes\MonogameInputController\obj\x86\Debug\Game Programming.pdb
